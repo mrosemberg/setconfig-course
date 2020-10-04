@@ -1,1 +1,1 @@
-# setconfi-course
+# setconfi-course - Demo
